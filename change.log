@@ -1,0 +1,7 @@
+1. Skipped user authentication for list page
+
+2. Writes username to database, and it cannot be blank
+
+3. Fix the bug when reservation is deleted by owner
+
+4. Prevents guest from making reservation
